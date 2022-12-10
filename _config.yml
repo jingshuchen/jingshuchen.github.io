@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingshu Chen / Assistant Professor|CSE|Oakland University"
+title                    : "Jingshu Chen Assistant Professor @ CSE, Oakland University"
 title_separator          : "-"
 name                     : &name "Jingshu Chen"
 description              : &description "personal description"
