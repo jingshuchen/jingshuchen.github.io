@@ -365,3 +365,20 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
+div#newsD{
+  width: 80px;
+  height: 23px;
+  background-color: #F8E2F1;
+  position: relative;
+  animation: myfirst 5s linear 2s infinite alternate;
+}
+#div1 {animation-timing-function: NEWS;}
+@keyframes myfirst {
+  0%   {background-color:#F8E2F1; left:0px; top:0px;}
+  25%  {background-color:yellow; left:800px; top:0px;}
+  50%  {background-color:#E2E6F8; left:800px; top:20px;}
+  75%  {background-color:#1FDFD3; left:0px; top:20px;}
+  100% {background-color:#F8E2F1; left:0px; top:0px;}
+}
